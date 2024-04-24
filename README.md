@@ -90,7 +90,7 @@ Clone this repository to your desired folder:
 
 ```sh
   git clone git@github.com:IngDavidTM/dynamic-styling-vue.git
-  cd vue-course-goals
+  cd dynamic-styling-vue
 ```
 
 ### Usage
